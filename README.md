@@ -57,6 +57,10 @@ Con los datos de matriculados por nivel de curso y por idioma, se evaluará el p
 
 Utilizando Power BI como herramienta de visualización de datos, se podrá analizar los cuatro KPIs definidos y obtener insights valiosos sobre la tasa de conversión, la satisfacción del estudiante, los ingresos por nivel de dificultad y la popularidad por nivel de curso y por idioma. Estos insights serán fundamentales para tomar decisiones estratégicas y optimizar la oferta de cursos en las plataformas MOOCs.
 
+## `Herramientas utilizadas`
+* Python (Pandas, Numpy, Seaborn, Matplotlib)
+* Microsoft Power BI
+
 ## Enlaces:
 
 [Datasets proporcionados ](https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H?usp=sharing)
